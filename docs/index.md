@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "TODO: Title"
-  text: "TODO: Subtitle"
-  tagline: "TODO: Tagline"
+  name: "Nisha Nkya"
+  text: "a Growing Designer's portfolio"
+  tagline: "A Work In Progress"
   actions:
     - theme: brand
       text: Template Repository
@@ -16,7 +16,7 @@ hero:
 
 features:
   - title: Blogs
-    details: Some cool blogs you'll write this semester!
+    details: Some cool blogs I will write this semester!
     link: /blogs
   - title: Assignments
     details: All of your assignments will be posted on your portfolio.
