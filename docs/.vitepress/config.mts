@@ -11,14 +11,22 @@ export default defineConfig({
     nav: [
       { text: "Home", link: "/" },
       { text: "Blogs", link: "/blogs" },
+      { text: "About Me", link: "/aboutme" },
+      {text:"Assignments", link: "/assignments"}
     ],
 
-    sidebar: [
+    sidebar:{ 
+      
+      "/blogs":[
       {
         text: "Blogs",
         link: "/blogs",
+        collapsed: true,
       },
     ],
+
+
+  },
 
     socialLinks: [{ icon: "github", link: "https://github.com/61040-fa24" }],
   },
