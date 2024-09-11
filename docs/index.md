@@ -6,13 +6,7 @@ hero:
   name: "Nisha Nkya"
   text: "a Growing Designer's portfolio"
   tagline: "A Work In Progress"
-  actions:
-    - theme: brand
-      text: Template Repository
-      link: "https://github.com/61040-fa24/vitepress-template"
-    - theme: alt
-      text: Example Site
-      link: "https://61040-fa24.github.io/portfolio-dhua/"
+
 
 features:
   - title: Blogs
