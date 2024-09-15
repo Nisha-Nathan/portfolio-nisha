@@ -5,7 +5,7 @@ layout: doc
 
 # Assignment 1: Social Media Needfinding :mag:
 
-[Raw Interview Prep Notes ](/public/intvwpdf.pdf):page_with_curl:
+<a href="https://drive.google.com/file/d/1qUjQ3hfhp1hwfv8C_8l3l_dkGWwX3wUm/view?usp=sharing">Raw Interview Prep Notes</a> :page_with_curl:
 
 <details>
 
