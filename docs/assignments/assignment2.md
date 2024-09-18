@@ -18,24 +18,19 @@ layout: doc
 
 ## Scrapbook :notebook_with_decorative_cover:
 <style>
-  
-
 div.scroll-container {
   background-color: #333;
   overflow: auto;
   white-space: nowrap;
   padding:5px;
   margin-top:20px;
-
-  
 }
-
 div.scroll-container img {
   padding: 5px;
   display:inline-block;
 }
-
 </style>
+
 ### I AM
 <div class="scroll-container">
     <img src="C:\6170\portfolio-nisha\assets\images\IAM01.png">
