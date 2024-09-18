@@ -34,7 +34,7 @@ div.scroll-container img {
 ### I AM
 
 <div class="scroll-container">
-    <img src="C:\6170\portfolio-nisha\assets\images\discoursedp.jpg">
+    <img src="C:/6170/portfolio-nisha/assets/images/discoursedp.jpg">
     <!-- <img src="C:/6170/portfolio-nisha/assets/images/IAM02.png">
     <img src="C:/6170/portfolio-nisha/assets/images/IAM03.png">
     <img src="C:/6170/portfolio-nisha/assets/images/IAM04.png">
