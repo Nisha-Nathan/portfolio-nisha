@@ -31,38 +31,45 @@ div.scroll-container img {
 }
 </style>
 
-
+### I AM
+<div class="scroll-container">
+    <img src="C:/6170/portfolio-nisha/assets/images/IAM01.png">
+    <img src="C:/6170/portfolio-nisha/assets/images/IAM02.png">
+    <img src="C:/6170/portfolio-nisha/assets/images/IAM03.png">
+    <img src="C:/6170/portfolio-nisha/assets/images/IAM04.png">
+    <img src="C:/6170/portfolio-nisha/assets/images/IAM05.png">  
+</div>
 
 ### Instagram
 <div class="scroll-container">
-    <img src="C:\6170\portfolio-nisha\assets\images\IG01.png">
-    <img src="C:\6170\portfolio-nisha\assets\images\IG02.png">
+    <img src="C:/6170/portfolio-nisha/assets/images/IG01.png">
+    <img src="C:/6170/portfolio-nisha/assets/images/IG02.png">
 </div>
 
 ### Tiktok
 <div class="scroll-container">
-    <img src="C:\6170\portfolio-nisha\assets\images\Tiktok1.png">
-    <img src="C:\6170\portfolio-nisha\assets\images\Tiktok2.png">
+    <img src="C:/6170/portfolio-nisha/assets/images/Tiktok1.png">
+    <img src="C:/6170/portfolio-nisha/assets/images/Tiktok2.png">
 </div>
 
 ### Sidechat
 <div class="scroll-container">
-    <img src="C:\6170\portfolio-nisha\assets\images\Sidechat01.png">
+    <img src="C:/6170/portfolio-nisha/assets/images/Sidechat01.png">
 </div>
 
 ### Reddit
 <div class="scroll-container">
-    <img src="C:\6170\portfolio-nisha\assets\images\Reddit01.png">
+    <img src="C:/6170/portfolio-nisha/assets/images/Reddit01.png">
 </div>
 
 ### Journal
 <div class="scroll-container">
-    <img src="C:\6170\portfolio-nisha\assets\images\Journal01.png">
+    <img src="C:/6170/portfolio-nisha/assets/images/Journal01.png">
 </div>
 
 ### Fizz
 <div class="scroll-container">
-    <img src="C:\6170\portfolio-nisha\assets\images\Fizz01.png">
+    <img src="C:/6170/portfolio-nisha/assets/images/Fizz01.png">
 </div>
 
 
@@ -138,12 +145,12 @@ div.scroll-container img {
 
 ### Storyboard 01
 <div class="scroll-container">
-    <img src="C:\6170\portfolio-nisha\assets\images\SB01A.png">
-     <img src="C:\6170\portfolio-nisha\assets\images\SB01B.png">
+    <img src="C:/6170/portfolio-nisha/assets/images/SB01A.png">
+     <img src="C:/6170/portfolio-nisha/assets/images/SB01B.png">
 </div>
 
 ### Storyboard 02
 <div class="scroll-container">
-    <img src="C:\6170\portfolio-nisha\assets\images\SB02A.png">
-     <img src="C:\6170\portfolio-nisha\assets\images\SB02B.png">
+    <img src="C:/6170/portfolio-nisha/assets/images/SB02A.png">
+     <img src="C:/6170/portfolio-nisha/assets/images/SB02B.png">
 </div>
