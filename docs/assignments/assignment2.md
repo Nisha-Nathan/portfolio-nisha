@@ -34,52 +34,50 @@ div.scroll-container img {
 ### I AM
 
 <div class="scroll-container">
-
-![](C:/6170/portfolio-nisha/assets/images/IAM01.png)
-![](C:/6170/portfolio-nisha/assets/images/IAM02.png)
-![](C:/6170/portfolio-nisha/assets/images/IAM03.png)
-![](C:/6170/portfolio-nisha/assets/images/IAM04.png)
-![](C:/6170/portfolio-nisha/assets/images/IAM05.png)
-
+<img src="./IAM01.png">
+<img src="./IAM02.png">
+<img src="./IAM03.png">
+<img src="./IAM04.png">
+<img src="./IAM05.png">
 </div>
-<!-- 
+
 ### Instagram
 
 <div class="scroll-container">
-    <img src="C:/6170/portfolio-nisha/assets/images/IG01.png">
-    <img src="C:/6170/portfolio-nisha/assets/images/IG02.png">
+    <img src="./IG01.png">
+    <img src="./IG02.png">
 </div>
 
 ### Tiktok
 
 <div class="scroll-container">
-    <img src="https://drive.google.com/file/d/1KoAVsDJsqGnjkCzb5Ampqa0EprHb7AlA/view?usp=sharing">
-    <img src="https://drive.google.com/file/d/1LMECO13kXjRrxCsmmxh3SeMBCinmjX40/view?usp=sharing">
+    <img src="./Tiktok1.png">
+    <img src="./Tiktok2.png">
 </div>
 
 ### Sidechat
 
 <div class="scroll-container">
-    <img src="C:/6170/portfolio-nisha/assets/images/Sidechat01.png">
+    <img src="./Sidechat01.png">
 </div>
 
 ### Reddit
 
 <div class="scroll-container">
-    <img src="C:/6170/portfolio-nisha/assets/images/Reddit01.png">
+    <img src="./Reddit01.png">
 </div>
 
 ### Journal
 
 <div class="scroll-container">
-    <img src="C:/6170/portfolio-nisha/assets/images/Journal01.png">
+    <img src="./Journal01.png">
 </div>
 
 ### Fizz
 
 <div class="scroll-container">
-    <img src="C:/6170/portfolio-nisha/assets/images/Fizz01.png">
-</div> -->
+    <img src="./Fizz01.png">
+</div> 
 
 ## Feature Brainstorming :bulb:
 
@@ -149,17 +147,17 @@ div.scroll-container img {
    **Design Response:** Incorporate AI-assisted moderation tools combined with community guidelines and human oversight to maintain a safe and supportive environment.
 
 ## Storyboards :movie_camera:
-<!-- 
+
 ### Storyboard 01
 
 <div class="scroll-container">
-    <img src="C:/6170/portfolio-nisha/assets/images/SB01A.png">
-     <img src="C:/6170/portfolio-nisha/assets/images/SB01B.png">
+    <img src="./SB01A.png">
+     <img src="./SB01B.png">
 </div>
 
 ### Storyboard 02
 
 <div class="scroll-container">
-    <img src="C:/6170/portfolio-nisha/assets/images/SB02A.png">
-     <img src="C:/6170/portfolio-nisha/assets/images/SB02B.png">
-</div> -->
+   <img src="./SB02A.png">
+     <img src="./SB02B.png">
+</div>
