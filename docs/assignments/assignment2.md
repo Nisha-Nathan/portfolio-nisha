@@ -31,14 +31,7 @@ div.scroll-container img {
 }
 </style>
 
-### I AM
-<div class="scroll-container">
-    <img src="C:\6170\portfolio-nisha\assets\images\IAM01.png">
-    <img src="C:\6170\portfolio-nisha\assets\images\IAM02.png">
-    <img src="C:\6170\portfolio-nisha\assets\images\IAM03.png">
-    <img src="C:\6170\portfolio-nisha\assets\images\IAM04.png">
-    <img src="C:\6170\portfolio-nisha\assets\images\IAM05.png">  
-</div>
+
 
 ### Instagram
 <div class="scroll-container">
