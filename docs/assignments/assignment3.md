@@ -17,7 +17,7 @@ layout: doc
 
 We all know the internet can sometimes be a bit of a downer—endless negativity, bad news, and harsh comments can easily ruin your mood. But don't let that bring you down. UpLift is here to be your happy place—a community dedicated to positivity, support, and spreading good vibes. When life throws its challenges at you, we’re here to help you bounce back and stay lifted.
 
-With UpLift, you’ll find a space to brighten your day and connect with others who are on the same journey to find joy. Share your story or read inspiring ones from others in ***UpLift Stories***:high_brightness:. Need a little extra boost? Dive into the ***Compliment Carousel***:revolving_hearts:, where you can give and receive kindness with just a few taps. If you’re facing a tough moment, the ***Support Circles***:open_hands: are there for you—where real people offer real encouragement and advice. And when you need to unwind, the ***Aawww Feed*** :heart_eyes_cat: is packed with heartwarming photos and videos guaranteed to make you smile.
+With UpLift, you’ll find a space to brighten your day and connect with others who are on the same journey to find joy. Share your story or read inspiring ones from others in ***UpLift Stories***:high_brightness:. Need a little extra boost? Dive into the ***Cheer Reel***:revolving_hearts:, where you can give and receive kindness with just a few taps. If you’re facing a tough moment, the ***Support Circles***:open_hands: are there for you—where real people offer real encouragement and advice. And when you need to unwind, the ***Aawww Feed*** :heart_eyes_cat: is packed with heartwarming photos and videos guaranteed to make you smile.
 
 To help you stay grounded, you’ll also have access to a ***Gratitude Journal***:pray:, a private space for you to reflect on what you're grateful for and keep those positive vibes alive. Plus, ***Daily Uplift Notifications***:love_letter: will start your day with affirmations and give you gentle reminders to reflect before bed—helping you stay positive from morning to night.
 At UpLift, you’re not just another user—you’re part of a community that cares. Let’s make the internet a brighter, kinder place—together.
@@ -415,9 +415,13 @@ sync sendPendingNotifications()
 
 ## Wireframes :notebook_with_decorative_cover:
 
- <a href="#">Interactive Prototype for UpLift</a>
+The **UpLift** wireframes present the core user interactions and layout for a positivity-centric social media app. These wireframes showcase the app's primary features, including the Uplift Stories,Cheer Reel, Support Circles, and Aawww feed offering users a space to share and engage with positive content. While not all interactions are represented, the wireframes effectively illustrate the basic user flows such as posting stories, giving compliments, and reacting to content. The design reflects the app's goal of fostering a joyful and supportive community, with intuitive navigation and an inviting aesthetic.
 
- <a href="https://www.figma.com/design/QY3JA04hAwcsLAkioi4RXR/UpLift?node-id=0-1&t=j5jo2bIiq205yO8F-1">Figma Wireframes for UpLift</a>
+
+
+ <a href="https://www.figma.com/proto/QY3JA04hAwcsLAkioi4RXR/UpLift?page-id=0%3A1&node-id=5-329&node-type=canvas&viewport=561%2C369%2C0.31&t=EfkDmZ0MOx3kMjux-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=5%3A329">Interactive Prototype for UpLift</a>
+
+ <a href="https://www.figma.com/design/QY3JA04hAwcsLAkioi4RXR/UpLift?node-id=0-1&t=InKKKSMrTCVkF2Mi-1">Figma Wireframes for UpLift</a>
 
 ## Design Tradeoffs :part_alternation_mark:
 
