@@ -181,5 +181,5 @@ In terms of language, UpLift maintains a positive, inviting tone throughout, but
 
 <a href="https://github.com/Nisha-Nathan/Uplift-frontend">Github Link</a>
 
-<a href="https://vercel.live/link/uplift-frontend-eight.vercel.app?via=deployment-domains-list&p=1">Vercel Deployment</a>
+<a href="https://uplift-frontend-6ouh5dfwe-nisha-nathans-projects.vercel.app/">Vercel Deployment</a>
 
