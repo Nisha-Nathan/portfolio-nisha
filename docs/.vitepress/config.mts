@@ -4,7 +4,6 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Nisha's Portfolio",
   description: "6.1040 Fall 2024",
-  // TODO: add your base here; this should be your repo name!
   base: "/portfolio-nisha/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config

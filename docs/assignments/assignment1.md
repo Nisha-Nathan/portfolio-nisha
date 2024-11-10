@@ -7,11 +7,8 @@ layout: doc
 
 <a href="https://drive.google.com/file/d/1qUjQ3hfhp1hwfv8C_8l3l_dkGWwX3wUm/view?usp=sharing">Raw Interview Prep Notes</a> :page_with_curl:
 
-<details>
 
-<summary><b>Interview Report 1</b></summary>
-
-### Interview Report - College Student :school:
+## Interview Report - College Student :school:
 #### Interviewee Profile :information_source:
 - **Background:** 20-year-old international sophomore at MIT, studying in the U.S. away from a strict family environment.
 - **Social Media Habits:** Uses WhatsApp for daily emotional support from family and friends, Snapchat for boosting self-confidence with filters, TikTok for light entertainment, and Instagram with two accounts—public and private—to manage different aspects of her digital identity.
@@ -23,13 +20,10 @@ The interview with the international sophomore from MIT revealed a complex dynam
 Additionally, she shared how her struggles with self-image play out on Snapchat, where she often uses filters to "boost her self-confidence" and see herself in a more positive light. At the same time, Snapchat also brings feelings of FOMO (Fear of Missing Out) when she sees friends’ stories of social activities like clubbing or partying—things she feels disconnected from due to her strict upbringing. "Even though I'm in college now, my upbringing still affects me," she reflected, highlighting her inner conflict between wanting independence and feeling restricted by her past. Her experience on TikTok similarly combines moments of joy with frustration; while she enjoys the funny content, she finds it stressful when her feed suddenly fills with sad videos: "I hate how easily my feed changes when I interact with sad videos." This need for a more stable and predictable digital environment also shows in her use of Instagram, where she manages two separate accounts—a "main" for public, curated content and a "spam" for more personal and private posts—demonstrating her need for safer spaces to express herself. Outside the digital realm, she turns to activities like journaling and religious groups for more genuine and lasting positivity, suggesting that social media platforms could be designed to better support mental well-being by offering more control, personalization, and emotional safety.
 
 ***
-</details>
 
-<details>
 
-<summary><b>Interview Report 2</b></summary>
 
-### Interview Report - Full-Time Worker :office:
+## Interview Report - Full-Time Worker :office:
 
 #### Interviewee Profile :information_source:
 - **Background:** Late 20s development engineer with a background in chemical engineering and business management, currently living in Massachusetts and preparing for marriage.
@@ -41,12 +35,9 @@ The interview with the full-time development engineer offered a nuanced look int
 As we explored more of her current social media habits, she explained how her relationship with these platforms has continued to evolve. She described how her usage sometimes spirals into "doom scrolling," despite her efforts to set boundaries. Social media often makes her "hyper-fixated" on negative content, which affects her mental state, prompting her to set specific times for usage to manage these effects better. For instance, she avoids using social media after 10 p.m. or when she is with her partner, limiting it to specific times like after evening workouts. Still, she finds it challenging to maintain these boundaries and expressed a desire for an "accountability partner" who could help control her access to apps like Instagram, imagining a setup where she would need a code or password from someone else to unlock the app after a certain time. In her quest for positivity, she actively shares Bible verses, words of encouragement, and uplifting quotes on her social media, finding joy in being a "people's person" who offers support to friends and family through group chats and social interactions. However, she also expressed a sense of loss as she grows older, noting that she no longer goes out as much due to increased responsibilities and feeling easily drained. This shift has led her to dream of a social media app focused solely on positivity—free from the toxicity that often permeates online spaces—a digital refuge where she could turn for comfort and encouragement. Her reflections suggest a broader desire for social media platforms that provide emotional safety, balance, and meaningful connection in a way that aligns with her evolving needs.
 
 *** 
-</details>
 
-<details>
-<summary><b>Design Opportunities</b></summary>
 
-### Design Opprotunities :construction:
+## Design Opprotunities :construction:
 
 - **Enhanced Privacy Controls in Group Chats:**
 The college student expressed discomfort with sharing messages in group chats that include people she doesn’t want to interact with. This suggests a need for more granular privacy controls that allow users to selectively hide messages from specific group members, fostering safer and more open communication.
@@ -66,5 +57,4 @@ The emotional toll from social media content noted by both interviewees suggests
 - **Community-Driven Content Moderation:**
 Both interviewees appreciated support from positive group interactions. A feature that allows communities to collaboratively moderate content and maintain supportive digital spaces could empower users to create environments aligned with their values.
 
-</details>
 

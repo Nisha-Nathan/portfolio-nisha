@@ -7,15 +7,33 @@ hero:
   text: "a Growing Designer's portfolio"
   tagline: "A Work In Progress"
 
-
-features:
-  - title: Blogs
-    details: Some cool blogs I will write this semester!
-    link: /blogs
-  - title: Assignments
-    details: 6.106 Class Assigments.
-    link: /assignments
-  - title: About Me
-    details: You'll implement a small bio about yourself on here!
-    link: /aboutme
 ---
+
+
+
+<v-container>
+<v-row justify="center">
+<v-col cols="auto">
+ <v-btn elevation="16" size="x-large"  color="#535bf2" href="./assignments" >Assignments</v-btn>
+ </v-col>
+<v-col cols="auto">
+<v-btn elevation="16" size="x-large" color="#535bf2" href="./blogs">Blogs</v-btn>
+</v-col>
+<v-col cols="auto">
+<v-btn elevation="16" size="x-large" color="#535bf2" href="./aboutme">About Me</v-btn>
+</v-col>
+</v-row>
+</v-container>
+
+<style scoped>
+  .v-btn:hover{
+    color:black!important;
+    background-color:#bcc0ff !important;
+  }
+
+  a {
+  text-decoration: none;
+}
+
+
+</style>
