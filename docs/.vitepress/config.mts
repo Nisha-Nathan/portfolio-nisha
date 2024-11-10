@@ -1,5 +1,5 @@
 import { defineConfig } from "vitepress";
-import vuetify from 'vite-plugin-vuetify';
+import vuetify from "vite-plugin-vuetify";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -12,25 +12,25 @@ export default defineConfig({
       { text: "Home", link: "/" },
       { text: "Blogs", link: "/blogs" },
       { text: "About Me", link: "/aboutme" },
-      {text:"Assignments", link: "/assignments"}
+      { text: "Assignments", link: "/assignments" },
     ],
 
-    sidebar:{ 
-      
-      "/blogs":[
-      {
-        text: "Blogs",
-        link: "/blogs",
-        collapsed: true,
-      },
-    ],
-
-
-  },
+    sidebar: {
+      "/blogs": [
+        {
+          text: "Blogs",
+          link: "/blogs",
+          collapsed: true,
+        },
+      ],
+    },
 
     socialLinks: [{ icon: "github", link: "https://github.com/61040-fa24" }],
   },
   vite: {
+    ssr: {
+      noExternal: ["vuetify"],
+    },
     plugins: [
       vuetify({
         autoImport: true, // Automatically imports Vuetify components and styles
@@ -38,7 +38,7 @@ export default defineConfig({
     ],
     resolve: {
       alias: {
-        '@': '/src',
+        "@": "/src",
       },
     },
     css: {
