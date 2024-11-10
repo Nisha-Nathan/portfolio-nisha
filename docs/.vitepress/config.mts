@@ -1,4 +1,5 @@
 import { defineConfig } from "vitepress";
+import vuetify from 'vite-plugin-vuetify';
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -29,4 +30,11 @@ export default defineConfig({
 
     socialLinks: [{ icon: "github", link: "https://github.com/61040-fa24" }],
   },
+  vite:{
+    plugins: [
+      vuetify({
+        autoImport: true, // Automatically imports Vuetify components and styles
+      }),
+    ],
+  }
 });
