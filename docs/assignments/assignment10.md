@@ -1,5 +1,5 @@
 ---
-title: Project Phase 5 - Beta Release
+title: Project Phase 5- Beta Release
 layout: doc
 ---
 
