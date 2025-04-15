@@ -11,7 +11,7 @@ hero:
 
 
 
-<v-container>
+<!-- <v-container>
 <v-row justify="center">
 <v-col cols="auto">
  <v-btn elevation="16" size="x-large"  color="#535bf2" href="./assignments" >Assignments</v-btn>
@@ -23,8 +23,8 @@ hero:
 <v-btn elevation="16" size="x-large" color="#535bf2" href="./aboutme">About Me</v-btn>
 </v-col>
 </v-row>
-</v-container>
-
+</v-container> -->
+<!-- 
 <style scoped>
   .v-btn:hover{
     color:black!important;
@@ -36,4 +36,4 @@ hero:
 }
 
 
-</style>
+</style> -->

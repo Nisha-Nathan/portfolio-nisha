@@ -10,9 +10,11 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Blogs", link: "/blogs" },
+      // { text: "Blogs", link: "/blogs" },
       { text: "About Me", link: "/aboutme" },
-      { text: "Assignments", link: "/assignments" },
+      // { text: "Assignments", link: "/assignments" },
+      {text: "Curriculum Vitae", link: "/cv"},
+      {text: "Photography", link: "/photography"},
     ],
 
     sidebar: {
@@ -25,7 +27,7 @@ export default defineConfig({
       ],
     },
 
-    socialLinks: [{ icon: "github", link: "https://github.com/61040-fa24" }],
+    socialLinks: [{ icon: "github", link: "https://github.com/Nisha-Nathan" }],
   },
   vite: {
     ssr: {
