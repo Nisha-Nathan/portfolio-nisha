@@ -16,7 +16,7 @@ I've always been drawn to capturing the unexpected—the way light shifts, the d
 
 <style>
 
-   .aside{
+.aside{
     order:0 !important;
     display:none !important;
   }
@@ -26,9 +26,13 @@ I've always been drawn to capturing the unexpected—the way light shifts, the d
         gap:2em;
         align-items:center;
     }
+    .v-btn{
+       text-decoration:none !important;
+    }
   .v-btn:hover{
     color:black!important;
     background-color:#bcc0ff !important;
+   
   }
 
   a {
