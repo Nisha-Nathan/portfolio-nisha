@@ -14,7 +14,12 @@ I've always been drawn to capturing the unexpected—the way light shifts, the d
 </v-row>
 </v-container>
 
-<style scoped>
+<style>
+
+   .aside{
+    order:0 !important;
+    display:none !important;
+  }
     .v-container{
         display:flex;
         flex-direction:column;
@@ -31,7 +36,7 @@ I've always been drawn to capturing the unexpected—the way light shifts, the d
 }
 
 p{
-    width:50%;
+    width:80%;
 }
 
 
