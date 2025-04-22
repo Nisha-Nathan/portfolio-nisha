@@ -13,7 +13,7 @@ export default defineConfig({
       // { text: "Blogs", link: "/blogs" },
       { text: "About Me", link: "/aboutme" },
       // { text: "Assignments", link: "/assignments" },
-      {text: "Curriculum Vitae", link: "/cv"},
+      {text: "Curriculum Vitae", link: "https://acrobat.adobe.com/id/urn:aaid:sc:us:5fe72017-890a-45bb-843b-87b0d937d670"},
       {text: "Photography", link: "/photography"},
     ],
 

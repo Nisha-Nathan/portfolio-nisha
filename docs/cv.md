@@ -5,7 +5,7 @@ layout: page
 
 <div class="cv-container">
 <object
-	data="./NishaNkya.pdf#view=FitH"
+	data="./NishaNkya.pdf#zoom=150%"
 	type="application/pdf"
 	width="100%"
 	height="1000vh"
